@@ -209,4 +209,12 @@
     <PRICE>8.20</PRICE>
     <YEAR>1987</YEAR>
   </CD>
+  <CD>
+    <TITLE>The future is the past</TITLE>
+    <ARTIST>Jackson Jackson</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>EMI</COMPANY>
+    <PRICE>19.40</PRICE>
+    <YEAR>2016</YEAR>
+  </CD>
 </CATALOG>
